@@ -47,7 +47,7 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 
 ## Support
 
-[<img src="https://icons8.com/icon/ZRiAFreol5mE/instagram"/>](https://instagram.com/devgagan.in)
+[<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://instagram.com/devagagn.in)
 [<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://youtube.com/@dev_gagan)
 [<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/dev_gagan)
 [<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/devgaganin)

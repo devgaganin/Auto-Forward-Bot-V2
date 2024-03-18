@@ -7,5 +7,4 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 - Edit `__init__.py`and `config.py` with your own variables
 - make sure that your VPS have `sqlite` installed
 - Now Give following commands one by one
-1) echo "Hello, world!"
-```
+1) ```git clone your_repo_link_after_edited

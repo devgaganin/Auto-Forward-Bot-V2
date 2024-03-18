@@ -1,0 +1,52 @@
+{
+  "name": "Auto-Forward-Bot-V2",
+  "description": "Telegram's Best Smart Plugin File Forward Bot",
+  "logo": "https://telegra.ph/file/5c3499c3b2ec282cf0c4e.jpg",
+  "stack": "container",
+  "keywords": [
+    "telegram",
+    "best",
+    "file",
+    "forward",
+    "bot"
+  ],
+  "success_url": "https://t.me/DForDarkAngel",
+  "website": "https://github.com/SadKidBGMZ/fwdbot",
+  "repository": "https://github.com/SadKidBGMZ/fwdbot",
+  "env": {
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org or @UseTGSBot",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org or @UseTGSBot",
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token from @BotFather",
+      "value": ""
+    },
+    "BOT_OWNER_ID": {
+      "description": "Enter Your Telegram id",
+      "value": ""
+    },
+    "BANNED_USERS": {
+      "description": "If you want to add a caption to the forwarded file, enter it here",
+      "required": false
+    },
+    "DATABASE_NAME": {
+      "description": "Type Of filters (document , audio , photo , video , animation)",
+      "value": "document"
+    },
+    "DATABASE_URI": {
+      "description": "pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1",", 
+      "value": ""
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}

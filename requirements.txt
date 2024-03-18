@@ -1,0 +1,14 @@
+pyrofork
+motor
+TgCrypto
+Dnspython
+https://devgagan.in/wp-content/uploads/2023/12/gagantelethon.zip
+cryptg
+tgcrypto
+Pyrogram==2.0.93
+psutil
+opencv-python-headless
+python-decouple
+requests
+speedtest-cli
+pymongo

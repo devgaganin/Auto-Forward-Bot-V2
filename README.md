@@ -47,11 +47,11 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 
 ## Support
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png)](https://instagram.com/devagagn.in)
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://youtube.com/dev_gagan)
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png)](https://t.me/dev_gagan)
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/devgaganin)
-[![Website](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Font_Awesome_5_brands_website.svg/1024px-Font_Awesome_5_brands_website.svg.png)](https://devgagan.in)
+[<img src="https://icons8.com/icon/ZRiAFreol5mE/instagram"/>](https://instagram.com/devgagan.in)
+[<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://youtube.com/@dev_gagan)
+[<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/dev_gagan)
+[<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/devgaganin)
+[<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://devgagan.in)
 
 ## Contributing
 

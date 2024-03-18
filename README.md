@@ -50,6 +50,21 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 - Update the `__init__.py` and `config.py` files with your bot's specific variables before deployment.
 - Ensure that your bot is configured correctly according to the requirements of the Telegram Bot API.
 
+## Commands Available in Bot - [TEAM SPY](https://t.me/dev_gagan)
+
+- ```/start``` - to start the bot
+- ```/batch``` - to download the files in range/bulk by giving one post link and range value
+- ```/cancel``` - to cancel the onging /batch task
+- ```/stats``` - to viewing the statics of bot
+- ```/speedtest``` - can be executed by owner only
+- ```/setchat``` - Set forwarding to a channel/group via channel/group ID including -100
+- `/forward or /fwd` - to start forward\
+- `/settings` - to change settings for forward bot
+- `restart` - to restart the bot
+- `/resetall` - to reset unlink all other users / bot
+- `/broadcast` - send bulk message to all users who ever have started the bot
+- `help` - get help about other commands
+
 ## Support
 
 [<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://instagram.com/devagagn.in)
@@ -57,6 +72,9 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 [<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/dev_gagan)
 [<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/devgaganin)
 [<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://devgagan.in)
+
+# Terms of USE / Modification 
+Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/main/TERMS_OF_USE.md) and accept the guidelines.
 
 ## Contributing
 

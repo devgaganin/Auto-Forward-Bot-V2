@@ -23,7 +23,6 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
      ```bash
      cd repo_name
      ```
-     ```
    - Run the bot:
      ```bash
      python main.py

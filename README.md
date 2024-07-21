@@ -12,7 +12,7 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 ### VPS Deployment
 
 1. **Initial Setup**:
-   - Edit both `__init__.py` and `config.py` files with your variables.
+   -`config.py` files with your variables.
 
 2. **Clone and Run**:
    - Clone your forked and edited repository:

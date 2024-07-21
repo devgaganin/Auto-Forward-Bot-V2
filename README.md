@@ -23,13 +23,10 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
      ```bash
      cd repo_name
      ```
-   - Copy `__init__.py` to the `src/devagagan` directory:
-     ```bash
-     cp __init__.py src/devagagan
      ```
    - Run the bot:
      ```bash
-     python main.py && cd src && python -m devgagan
+     python main.py
      ```
 
 ### Heroku Deployment

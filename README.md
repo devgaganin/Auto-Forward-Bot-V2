@@ -46,29 +46,12 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 - Update the `__init__.py` and `config.py` files with your bot's specific variables before deployment.
 - Ensure that your bot is configured correctly according to the requirements of the Telegram Bot API.
 
-## How to edit `__init__.py`
-
-```
-# variables
-API_ID = "1234567" #config("API_ID", default=None, cast=int)
-API_HASH = "1167433546577f90e4519b65634b7" #config("API_HASH", default=None)
-BOT_TOKEN = "7173773796:AAEYdIdgUg1_SYR7wSaMpgY0" #config("BOT_TOKEN", default=None)
-SESSION = "BQHDMOUAIOGZHesmwkhKztZ1bU7NokB1HVLtNKHAnr35ElBp-FQ7IPkvayF0s5JoOGLN44ksi4kqeUNxnG56Vd8Mh_2Lo3ICHSN2J2u0WyYIOj96FBxN2gq_iekABQkL-vdXTB1DrOswqzBJBG9RaGPFVoiEYDAd0iD2vqgT3x2wOz98gBZNKPCGpWQYbGR6GKe66W5SRZRlLWJaEDQcTEIxNF48nIEGW7cwK2AG3eR4-iyVg5Zxaje_ACeNuCN5kLtQsNkGEV23f7-EdLQTG1zKnZ57AjUvYQdJ7o1pdGhkKknUUmOcfG4xn42RbHUwccqD1CmsGLU5Zh-vTbgBGh9AiP79HAAAAAGlHSMFAA" #config("SESSION", default=None)
-FORCESUB = "channel username without @" #config("FORCESUB", default=None)
-AUTH = "1234567" #config("AUTH", default=None)
-
-```
-
 ## Commands Available in Bot - [TEAM SPY](https://t.me/dev_gagan)
 
 - ```/start``` - to start the bot
-- ```/batch``` - to download the files in range/bulk by giving one post link and range value
 - ```/cancel``` - to cancel the onging /batch task
 - ```/stats``` - to viewing the statics of bot
-- ```/speedtest``` - can be executed by owner only
-- ```/setchat``` - Set forwarding to a channel/group via channel/group ID including -100
 - `/forward or /fwd` - to start forward
-- `/settings` - to change settings for forward bot
 - `restart` - to restart the bot
 - `/resetall` - to reset unlink all other users / bot
 - `/broadcast` - send bulk message to all users who ever have started the bot
